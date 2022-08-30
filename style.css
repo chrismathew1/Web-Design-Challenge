@@ -1,0 +1,27 @@
+.landing-img{
+
+    width: 375px;
+}
+
+
+.right-image {
+    margin-left: 50px;
+}
+
+.left-image {
+    margin-right: 100px;
+}
+
+
+.centers {
+    margin:auto
+}
+
+.visualization {
+
+}
+
+.box {
+    max-width: 600px;
+}
+
